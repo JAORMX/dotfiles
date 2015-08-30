@@ -1,0 +1,6 @@
+set gui=none,tabs
+" use the listed characters to enumerate quickhint elements
+set hintchars=hjklasdf
+
+" set duckduckgo as the main search engine. 
+set defsearch=duckduckgo
